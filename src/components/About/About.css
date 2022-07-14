@@ -1,0 +1,42 @@
+.about{
+    margin-bottom: 30px;
+}
+
+.about .about-content{
+    display: flex;
+    text-align: center;
+}
+
+
+.about .about-content p{
+    text-align: left;
+    font-family: "Poppins";
+}
+
+.about .about-content .left img{
+    width: 50%;
+}
+
+
+.about .about-content .left{
+    width: 40%;
+}
+
+.about .about-content .right{
+    width: 60%;
+}
+
+.about .about-content .right .name{
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.about .title{
+    text-align: center;
+    font-family: "Ubuntu";
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-decoration:overline #0076d6;
+}

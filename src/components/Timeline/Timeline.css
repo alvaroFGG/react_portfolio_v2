@@ -1,0 +1,35 @@
+.experience{
+    color: black;
+    margin-top: 50px;
+}
+
+
+.experience .title{
+    text-align: center;
+}
+
+.experience h3{
+    color: #23283F;
+}
+
+.experience h4{
+    color: #0076d6;
+}
+
+.experience p{
+    color: #0076d6;
+}
+
+.experience .vertical-timeline-element-date{
+    width: 40% !important;
+    border-radius: 10px;
+    padding: 10px !important;
+}
+
+@media (max-width: 600px) {
+    .experience .title{
+        display: flex;
+        align-items: flex-start;
+        margin-top: 2em;
+    }
+  }
